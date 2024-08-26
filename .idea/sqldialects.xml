@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V10__create-table-relatos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V11__alter-table-relatos.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V12__drop-table-usuarios.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V1__create-table-alunos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V2__create-table-usuarios.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V3__alter-table-alunos.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V4__alter-table-usuarios.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V5__alter-table-alunos.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V6__create-table-responsavel.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V7__alter-table-responsavel.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V8__create-table-admin.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/banco.migration/V9__alter-table-admin.sql" dialect="GenericSQL" />
+  </component>
+</project>
